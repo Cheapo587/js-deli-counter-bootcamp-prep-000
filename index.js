@@ -36,6 +36,6 @@ function currentLine(queue){
     return "The line is currently empty."
   } else {
     var count = 1
-    return `The line is currently: ${condition ? val1 : val2 }
+    return "The line is currently: "
   }
 }
